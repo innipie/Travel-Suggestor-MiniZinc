@@ -7,4 +7,4 @@ There is a list of Places you can visit. To explore each place properly, there i
 # Version 2
 Addition of the constraints that certain places cannot be visited on the same day.
 # Version 3
-There is a list of hotels to visit. Each hotel has its rating and cost. Given he constraint of your budget you can choose which hotels you can stay in.
+There is a list of hotels to visit. Each hotel has its cost. Given the constraint of your budget you can choose which hotels you can stay in.
