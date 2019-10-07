@@ -1,0 +1,14 @@
+Hotels = { Radisson, Westin, Le_Meridien, The_Regency, The_Grand_Oriental, Hotel_Shuktara, Hotel_Purbani, Hotel_Amari };
+
+
+Budget = 10;
+
+
+consumption = [ 50, 
+              72,
+              32,
+               10,
+               56,
+               66,
+               79,
+               5 ];
